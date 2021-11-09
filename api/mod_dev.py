@@ -12,4 +12,4 @@ def run_exp():
 @warnings.dep
 @warnings.exp
 def run_exp_old():
-    print("""Deprecated interface, stack w/ experimental because...yes""")
+    print("""Run deprecated interface, stack w/ experimental because...yes""")
