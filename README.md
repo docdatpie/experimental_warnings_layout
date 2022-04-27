@@ -1,8 +1,8 @@
 # experimental_warnings_layout
 Minimal layout for warning-decorators in python library
 
-After a discussion on warning users (of PyVO library) about experimental
-features in the library, where the use of decorators would be the way
+After a discussion on warning users (of [PyVO library](https://github.com/astropy/pyvo)) 
+about experimental features in the library, where the use of decorators would be the way
 to do it, remained doing it because...why not.
 
 The code is simple: a couple of decorators/functions to warn the user
